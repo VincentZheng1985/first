@@ -6,3 +6,4 @@ five
 six
 seven
 new branch
+master change
