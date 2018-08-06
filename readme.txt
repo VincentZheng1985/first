@@ -7,3 +7,4 @@ six
 seven
 new branch
 master and feature1
+dev branch
